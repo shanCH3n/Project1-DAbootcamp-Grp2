@@ -51,7 +51,7 @@ scipy.stats
 numpy
 datetime
 
-# Working Jupyter notebooks for Exploratory Data Analysis
+# Working Jupyter notebooks for Exploratory Data Analysis:
 
 ## In 01_Data
 
