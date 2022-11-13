@@ -43,4 +43,20 @@ Variables in HR_comma_sep.csv:
 > sales (Contains information about departments sales, accounting, support etc..);
 > salary (low, medium, high)
 
+# Packages Used:
 
+pandas
+matplotlib.pyplot
+scipy.stats
+numpy
+datetime
+
+# Working Jupyter notebooks for Exploratory Data Analysis
+
+## In 01_Data
+
+HRcomma_clean.ipynb
+EmployeeAttrition_data_clean.ipynb
+EmployeeAttrition_Designation.ipynb
+EmployeeAttrition_SampleID.ipynb
+EmployeeAttrition_Leavers.ipynb
