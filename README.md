@@ -55,8 +55,8 @@ datetime
 
 ## In 01_Data
 
-HRcomma_clean.ipynb
-EmployeeAttrition_data_clean.ipynb
-EmployeeAttrition_Designation.ipynb
-EmployeeAttrition_SampleID.ipynb
-EmployeeAttrition_Leavers.ipynb
+1. HRcomma_clean.ipynb
+2. EmployeeAttrition_data_clean.ipynb
+3. EmployeeAttrition_Designation.ipynb
+4. EmployeeAttrition_SampleID.ipynb
+5. EmployeeAttrition_Leavers.ipynb
