@@ -40,5 +40,7 @@ Variables in HR_comma_sep.csv:
 > time_spend_company (Tenure in Years);
 > Work_accident; left (left organisation);
 > promotion_last_5years (Received a promotion in the last 5 years);
-> sales (Contains information about departments sales, accounting, support etc..) - relabelled as Departments;
-> salary (low, medium, high);
+> sales (Contains information about departments sales, accounting, support etc..);
+> salary (low, medium, high)
+
+
