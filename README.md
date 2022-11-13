@@ -16,29 +16,29 @@ In this project, we seek to uncover what factors contribute to staff attrition i
 1) EmployeeAttrition.csv (renamed from 'train_data.csv). Source: https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition?select=train_data.csv 
 
 Variables in EmployeeAttrition.csv: 
-> MMM-YY (Date of Record) 
-> Emp_ID	(Unique id for employees)
-> Age of the employee
-> Gender of the employee
-> City Code of the employee
-> Education_Level
-> Salary
-> Date of joining for the employee
-> Last Working Date for the employee
-> Joining Designation of the employee
-> Designation of the employee at the time of reporting
-> Total Business Value acquired by the employee in a month (negative business indicates cancellation/refund of sold insurance policies)
-> Quarterly Rating	of the employee (out of 4 where higher ratings = better performance)
+> MMM-YY (Date of Record); 
+> Emp_ID	(Unique id for employees);
+> Age of the employee;
+> Gender of the employee;
+> City Code of the employee;
+> Education_Level;
+> Salary;
+> Date of joining for the employee;
+> Last Working Date for the employee;
+> Joining Designation of the employee;
+> Designation of the employee at the time of reporting;
+> Total Business Value acquired by the employee in a month (negative business indicates cancellation/refund of sold insurance policies);
+> Quarterly Rating	of the employee (out of 4 where higher ratings = better performance);
 
 2) HR_comma_sep.csv. Source: https://www.kaggle.com/code/jacksonchou/hr-analytics/report
 
 Variables in HR_comma_sep.csv: 
-> satisfaction_level (Job Satisfaction - higher values, greater satisfaction)
-> last_evaluation (Most recent performance rating)
-> number_project (Number of projects allocated/Workload)
-> average_montly_hours (Average hours spent at work each month)
-> time_spend_company (Tenure in Years)
-> Work_accident; left (left organisation)
-> promotion_last_5years (Received a promotion in the last 5 years)
-> sales (Contains information about departments sales, accounting, support etc..) - relabelled as Departments
-> Salary (low, medium, high)
+> satisfaction_level (Job Satisfaction - higher values, greater satisfaction);
+> last_evaluation (Most recent performance rating);
+> number_project (Number of projects allocated/Workload);
+> average_montly_hours (Average hours spent at work each month);
+> time_spend_company (Tenure in Years);
+> Work_accident; left (left organisation);
+> promotion_last_5years (Received a promotion in the last 5 years);
+> sales (Contains information about departments sales, accounting, support etc..) - relabelled as Departments;
+> salary (low, medium, high);
