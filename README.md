@@ -46,9 +46,13 @@ Variables in HR_comma_sep.csv:
 # Packages Used:
 
 pandas
+
 matplotlib.pyplot
+
 scipy.stats
+
 numpy
+
 datetime
 
 # Working Jupyter notebooks for Exploratory Data Analysis:
