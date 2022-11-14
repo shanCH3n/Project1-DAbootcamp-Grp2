@@ -9,7 +9,7 @@ Brianna O'Connor, Shannon Chen
 # Project Description: 
 The cost of hiring, training and onboarding new employees often exceeds the cost of retaining existing workers. Despite this, most organisations tend to turn a blind eye to what might be causing their best and brightest to leave. 
 
-In this project, we seek to uncover what contribute to staff turnover in two separate anonymised organisations. We have come up with a set of research questions about how factors such as salary, tenure, department, duration in a specific role, performance management, and workload may influence an employee’s decision to leave. From our analysis, we also hope to examine whether similar trends emerge across both organisations.
+In this project, we seek to uncover what aspects of human resource management may contribute to staff turnover in two separate anonymised organisations. We have come up with a set of research questions about how factors such as salary, tenure, department, duration in a specific role, performance management, and workload may influence an employee’s decision to leave. From our analysis, we also hope to examine whether similar trends emerge across both organisations.
 
 # Datasets Used:
 
