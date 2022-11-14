@@ -64,3 +64,4 @@ datetime
 3. EmployeeAttrition_Designation.ipynb
 4. EmployeeAttrition_SampleID.ipynb
 5. EmployeeAttrition_Leavers.ipynb
+6. EA_Salary_Investigation.ipynb
